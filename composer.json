@@ -1,16 +1,16 @@
 {
-	"name": "DmitryLa/yii2-forum",
+	"name": "dmitryla/yii2-forum",
 	"description": "forum extension for yii 2",
 	"keywords": ["yii2", "forum"],
 	"type": "yii2-extension",
 	"license": "MIT",
 	"support": {
-		"source": "https://github.com/DmitryLa/yii2-forum"
+		"source": "https://github.com/dmitryla/yii2-forum"
 	},
 	"authors": [
         {
             "name": "Evgeny Zakirov",
-            "homepage" : "https://github.com/DmitryLa"
+            "homepage" : "https://github.com/dmitryla"
         }
 	],
 	"require": {
@@ -21,7 +21,7 @@
     },
 	"autoload": {
 		"psr-4": {
-            "DmitryLa\\forum\\": ""
+            "dmitryla\\forum\\": ""
         }
 	}
 }
